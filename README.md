@@ -11,7 +11,6 @@ Packer is use to create an AMI
 }
 
 ## Example
-- 1. AWS Packer
 ```
 {
     "buildes":[
