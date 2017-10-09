@@ -9,8 +9,10 @@ Packer is use to create an AMI
   "provisioners": [],
   "post-processors": []
 }
-
-## Example
+```
+## Example 
+- Create file with start.packer
+- $ packer build -debug start.packer
 ```
 {
     "buildes":[
