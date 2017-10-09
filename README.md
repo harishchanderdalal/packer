@@ -12,7 +12,8 @@ Packer is use to create an AMI
 ```
 ## Example 
 - Create file with start.packer
-- $ packer build -debug start.packer
+- $ packer build start.packer
+1.  packer build start.packer ( Debug )
 ```
 {
     "buildes":[
